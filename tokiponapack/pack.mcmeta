@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":4,
+      "description":"A resource pack by jAleke and converted to new format by P3riapsis for the Toki Pona language"
+   },
+   "language":{
+      "tp_MP":{
+         "name":"Toki Pona",
+         "region":"Ma Pona",
+         "bidirectional":false
+      }
+   }
+}
