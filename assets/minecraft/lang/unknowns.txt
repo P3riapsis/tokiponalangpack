@@ -1,4 +1,4 @@
-Things I'm unsure if are the best translation
+Things I'm unsure if are valid translations
 
 options: wile (want/need)
 settings: ante (modify)
@@ -26,5 +26,11 @@ really unsure on the gamemodes (these are the closest I could get to survivor/cr
 survival/creative/spectator/hardcore/adventure: jan li moli ala, jan li pali, jan li lukin, moli awen, jan li tawa li luken
 
 also unsure on difficulties (did based on creatures)
+
+chat visibility stuff (in particular translating command as "nasin nimi" "method word")
+
+jukebox: kalama lon poki (music in the box)
+weather: kon (wind)
+ambient/environment: ma (world)
 
 unsure if to use extinct "leko" to mean block (really feel like I should generalise description of shapes beyond cubes)
