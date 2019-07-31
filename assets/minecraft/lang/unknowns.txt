@@ -33,4 +33,11 @@ jukebox: kalama lon poki (music in the box)
 weather: kon (wind)
 ambient/environment: ma (world)
 
+stone types by colour
+polished: sin (renew)
+grass: jaki kasi (dirt plant)
+bedrock: kiwen li ken ala pakala (stone which cannot break)
+
 unsure if to use extinct "leko" to mean block (really feel like I should generalise description of shapes beyond cubes)
+
+translating chunks as "ma lili" (small worlds)
