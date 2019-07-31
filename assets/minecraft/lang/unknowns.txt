@@ -22,4 +22,9 @@ hyperspeed: tawa wawa mute mute!!! (moving with energy much much)
 Render Distance: suli e lukin (size of sight)
 music: kalama musi (sounds of entertainment)
 
+really unsure on the gamemodes (these are the closest I could get to survivor/creator/spectator/die forever/adventurer(person who moves and looks)
+survival/creative/spectator/hardcore/adventure: jan li moli ala, jan li pali, jan li lukin, moli awen, jan li tawa li luken
+
+also unsure on difficulties (did based on creatures)
+
 unsure if to use extinct "leko" to mean block (really feel like I should generalise description of shapes beyond cubes)
