@@ -1,0 +1,25 @@
+Things I'm unsure if are the best translation
+
+options: wile (want/need)
+settings: ante (modify)
+video settings: ante e lukin
+sound settings: ante e kalama
+chat: toki
+controls: ilo lawa (tools for control)
+ok: pona
+save: awen (keep)
+you died: sina moli
+back: monsi (back as in direction)
+re-create: pali e sama (create same)
+go to title and go to menu are the same
+narrator.loading.done: pali (do)
+failed: pakala
+ON: OPEN (turn on)
+OFF: PINI (turn off)
+normal: nasa ala (strange not)
+hyperspeed: tawa wawa mute mute!!! (moving with energy much much)
+*yawn*: *lape* (*sleeps*)
+Render Distance: suli e lukin (size of sight)
+music: kalama musi (sounds of entertainment)
+
+unsure if to use extinct "leko" to mean block (really feel like I should generalise description of shapes beyond cubes)
