@@ -1,7 +1,10 @@
 Things I'm unsure if are valid translations
 
+server: ilo ma (world machine)
+join server: tawa ilo ma
 options: wile (want/need)
 settings: ante (modify)
+mode: ijo ante (changed thing)
 video settings: ante e lukin
 sound settings: ante e kalama
 chat: toki
@@ -9,7 +12,7 @@ controls: ilo lawa (tools for control)
 ok: pona
 save: awen (keep)
 you died: sina moli
-back: monsi (back as in direction)
+back: tawa monsi (go back as in direction)
 re-create: pali e sama (create same)
 go to title and go to menu are the same
 narrator.loading.done: pali (do)
@@ -22,8 +25,8 @@ hyperspeed: tawa wawa mute mute!!! (moving with energy much much)
 Render Distance: suli e lukin (size of sight)
 music: kalama musi (sounds of entertainment)
 
-really unsure on the gamemodes (these are the closest I could get to survivor/creator/spectator/die forever/adventurer(person who moves and looks)
-survival/creative/spectator/hardcore/adventure: jan li moli ala, jan li pali, jan li lukin, moli awen, jan li tawa li luken
+really unsure on the gamemodes (these are the closest I could get to survive/create/spectate/die forever/hunt
+survival/creative/spectator/hardcore/adventure: moli ala, pali, lukin, moli awen, alasa
 
 also unsure on difficulties (did based on creatures)
 
