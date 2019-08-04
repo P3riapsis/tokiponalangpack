@@ -7,7 +7,8 @@ settings: ante (modify)
 mode: ijo ante (changed thing)
 video settings: ante e lukin
 sound settings: ante e kalama
-chat: toki
+advancements: kama suli sina (your important events) 
+[because "kama suli pi tenpo pini sina" (important events of your past) wouldn't fit in]
 controls: ilo lawa (tools for control)
 ok: pona
 save: awen (keep)
@@ -40,6 +41,7 @@ stone types by colour
 polished: sin (renew)
 grass: jaki kasi (dirt plant)
 bedrock: kiwen li ken ala pakala (stone which cannot break)
+sand: kiwen lili lili (very small stones)
 
 unsure if to use extinct "leko" to mean block (really feel like I should generalise description of shapes beyond cubes)
 
