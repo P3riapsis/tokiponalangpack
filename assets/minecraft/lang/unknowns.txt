@@ -42,6 +42,7 @@ polished: sin (renew)
 grass: jaki kasi (dirt plant)
 bedrock: kiwen li ken ala pakala (stone which cannot break)
 sand: kiwen lili lili (very small stones)
+stripped logs: pi selo weka
 
 unsure if to use extinct "leko" to mean block (really feel like I should generalise description of shapes beyond cubes)
 
